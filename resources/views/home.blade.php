@@ -27,7 +27,7 @@
                                 </a>
                                 <div class="dropdown-menu " aria-labelledby="navbarDropdown">
                                     <a class="dropdown-item" href="{{ route('password.request') }}">
-                                       Change Password
+                                       Reset Password
                                     </a>
                                     <a class="dropdown-item" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();
